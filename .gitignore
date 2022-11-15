@@ -1,0 +1,7 @@
+*.gem
+*.tar.gz
+*.tar.bz2
+.DS_Store
+gitlab_gitlab-data
+gitlab_redis-data
+gitlab_postgresql-data
